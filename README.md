@@ -10,14 +10,6 @@ The mathematical model provided here demonstrates how these molecular difference
 ## Repository Contents
 * **Mathematical Model**: Scripts and source files for the in-silico mechanism-based model evaluating FAK upregulation, YAP1 nuclear localization, and MYBL2 dynamics. *(Note: Omics datasets such as RNA-seq, ATAC-seq, and RRBS-seq are hosted in their respective public repositories as detailed in the manuscript).*
 
-## Usage
-*(Provide instructions on how to run the mathematical model, required dependencies, and expected outputs here.)*
-
-```bash
-# Example standard execution
-python run_model.py
-```
-
 ## Authors and Affiliations
 * **Sarthak Sahoo**<sup>1,#</sup>
 * **Sejal Khanna**<sup>1,#</sup>
